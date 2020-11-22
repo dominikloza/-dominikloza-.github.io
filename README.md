@@ -1,4 +1,5 @@
 # dominikloza.github.io
 
-Layout Strony internetowej fikcyjnej firmy. 
+Layout Strony internetowej w RWD.  
 Użyte technologie : SASS , HTML5 , JavaScript ES6 , CSS
+Live: https://dominikloza.github.io
