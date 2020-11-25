@@ -12,9 +12,7 @@
 
 ## Features
 List of features
-* Adding new tasks
-* Adding operations to task
-* Adding duration of task
+* Calculator, where you can calculate price of service
 
 
 ## Status
