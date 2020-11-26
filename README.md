@@ -14,6 +14,9 @@
 List of features
 * Calculator, where you can calculate price of service
 
+## Live Demo
+https://main.d1b4kselhjy8fj.amplifyapp.com
+
 
 ## Status
 Project is: _finished_
