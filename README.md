@@ -4,7 +4,6 @@
 > Layout One Page website in RWD method.
 
 ## Technologies
-* CSS
 * JS ES6
 * HTML & CSS
 * Font Awesome
